@@ -3,7 +3,7 @@ How to Run
 
 Install Python:
 
-Make sure Python is installed on your system. You can download the latest version of Python from here.
+Make sure Python is installed on your system. You can download the latest version of Python from microsfot store  (https://www.microsoft.com/store/productId/9NRWMJP3717K?ocid=pdpshare)
 
 Download an IDE:
 Download and install an Integrated Development Environment (IDE), preferably Python IDLE, which comes bundled with Python. Alternatively, you can use any other IDE like PyCharm, VS Code, etc.
