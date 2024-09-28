@@ -3,10 +3,11 @@ How to Run
 
 Install Python:
 
-Make sure Python is installed on your system. You can download the latest version of Python from microsfot store  (https://www.microsoft.com/store/productId/9NRWMJP3717K?ocid=pdpshare)
+Make sure Python is installed on your system. 
 
 Download an IDE:
 Download and install an Integrated Development Environment (IDE), preferably Python IDLE, which comes bundled with Python. Alternatively, you can use any other IDE like PyCharm, VS Code, etc.
+(https://www.microsoft.com/store/productId/9NRWMJP3717K?ocid=pdpshare)
 
 Create a Python File:
 Open your IDE and create a new Python file (e.g., student_management.py).
