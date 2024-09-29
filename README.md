@@ -85,10 +85,10 @@ or spreadsheet software like Excel.
 ## 🤝How to contribute
 To ensure a smooth process, please follow these guidelines:
 
-1. **Fork the Repository**: Start by forking the repository and cloning it to your local machine.
+1. **Fork the Repository**: Fork and clone it to your local machi
 2. **Work on a Feature Branch**: Always create a new branch for your work (e.g., `feature/your-feature-name` or `bugfix/issue-number`) to keep the main branch stable.
-3. **Raise Issues**: If you've found a bug or have a suggestion, feel free to raise an issue before working on it.
-4. **Testing**: Before submitting a pull request, make sure your code is tested locally.
-5. **Pull Request**: Once your work is complete, submit a pull request with a detailed description of the changes and link it to the corresponding issue.
+3. **Raise Issues**: If you fin any issues raise an issue for bugs or suggestions before working on it.
+4. **Testing**: Test your code locally before submitting.
+5. **Pull Request**: Once your work is complete, submit a pull request with a detailed description and link it to the corresponding issue.
 
 Thank you for checking out the Student Report Management System! I hope you find it helpful. All feedbacks and contributions are welcomed !
